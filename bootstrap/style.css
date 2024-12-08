@@ -1,0 +1,95 @@
+
+#Anime-text{
+    color: yellow;
+    font-size: 30px;
+    margin-right: 33px;
+}
+#Anime-text span{
+    color: white;
+    font-size: 15px;
+}
+
+
+.nav-main{
+    height: 75px;
+}
+
+.main-card {
+    display: flex;
+    /* justify-content: center; */
+    margin-top: -109px;
+}
+
+nav image {
+    width: 100%;
+}
+
+.image-contant {
+    position: relative;
+    top: -489px;
+    left: 82px;
+}
+
+#naruto image{
+    height: 305px;
+}
+.image-contant p{
+    max-width: 40%;
+    color: black;
+}
+
+.image-contant h1 {
+    font-size: 62px;
+}
+
+.image-contant input {
+    width: 33%;
+    border-radius: 8px;
+    border: 1px solid black;
+    height: 41px;
+    padding: 10px;
+
+}
+
+.image-contant input::placeholder {
+    padding-left: 10px;
+}
+
+.image-contant .input-btn {
+    position: relative;
+    border: 1px solid black;
+    padding: 9px 33px;
+    border-radius: 7px;
+    margin-left: 16px;
+    background: gray;
+    color: wheat;
+    font-weight: 600;
+    font-size: 17px;
+    padding-right: 53px;
+    padding-left: 13px;
+}
+.image-contant .input-btn text{
+    position: relative;
+    left: 10px;
+}
+.input-btn i{
+    position: absolute;
+    top: 11px;
+    left: 85px;
+    color: black;
+    font-size: 21px;
+
+}
+.image-contant .watch-more button{
+    border: 1px solid black;
+    background: gray;
+    color: white;
+    font-size: 23px;
+    border-radius: 7px;
+    padding-left: 22px;
+    padding-right: 33px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    margin-top: 23px;
+}
